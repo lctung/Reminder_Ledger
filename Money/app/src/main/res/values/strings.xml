@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ReminderLedger</string>
+    <string name="dollarSign_0">$ 0</string>
+    <string name="dollarSign">$</string>
+    <string name="income_total">Total Revenue</string>
+    <string name="expenditure_total">Total Expenditure</string>
+    <string name="deleted">deleted</string>
+    <string name="added">added</string>
+    <string name="dollar">dollars</string>
+    <string name="warning">Please enter the amount</string>
+    <string name="date">Date</string>
+    <string name="income">Income</string>
+    <string name="expenditure">Expenditure</string>
+    <string name="type">Type</string>
+    <string name="amount">Amount</string>
+    <string name="details">Details</string>
+    <string name="report">Report</string>
+    <string name="categoryChart">Category Chart of Expenditure</string>
+    <string-array name="expenditure_set">
+        <item>food</item>
+        <item>drink</item>
+        <item>transportation</item>
+        <item>clothes</item>
+        <item>family</item>
+        <item>trip</item>
+        <item>learning</item>
+        <item>sociality</item>
+        <item>sport</item>
+        <item>entertainment</item>
+        <item>cosmetic</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="income_set">
+        <item>salary</item>
+        <item>pocket money</item>
+        <item>interest</item>
+        <item>invest</item>
+        <item>other</item>
+    </string-array>
+</resources>

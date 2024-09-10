@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">覚え帳</string>
+    <string name="dollarSign_0">¥ 0</string>
+    <string name="dollarSign">¥</string>
+    <string name="income_total">総収入</string>
+    <string name="expenditure_total">総支出額</string>
+    <string name="deleted">削除されました</string>
+    <string name="added">追加した</string>
+    <string name="dollar">円</string>
+    <string name="warning">金額を入力してください</string>
+    <string name="date">日付</string>
+    <string name="income">所得</string>
+    <string name="expenditure">支出</string>
+    <string name="type">タイプ</string>
+    <string name="amount">額</string>
+    <string name="details">詳細</string>
+    <string name="report">統計レポート</string>
+    <string name="categoryChart">支出カテゴリーチャート</string>
+    <string-array name="expenditure_set">
+        <item>食べ物</item>
+        <item>飲み物</item>
+        <item>交通機関</item>
+        <item>衣類</item>
+        <item>家族</item>
+        <item>旅行</item>
+        <item>研究</item>
+        <item>社交</item>
+        <item>スポーツ</item>
+        <item>エンターテインメント</item>
+        <item>化粧品</item>
+        <item>他の</item>
+    </string-array>
+    <string-array name="income_set">
+        <item>給料</item>
+        <item>ポケットマネー</item>
+        <item>興味</item>
+        <item>投資する</item>
+        <item>他の</item>
+    </string-array>
+</resources>

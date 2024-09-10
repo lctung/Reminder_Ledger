@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">記得記帳</string>
+    <string name="dollarSign_0">$ 0</string>
+    <string name="dollarSign">$</string>
+    <string name="income_total">總收入</string>
+    <string name="expenditure_total">總支出</string>
+    <string name="deleted">已刪除</string>
+    <string name="added">已新增</string>
+    <string name="dollar">元</string>
+    <string name="warning">請輸入金額</string>
+    <string name="date">日期</string>
+    <string name="income">收入</string>
+    <string name="expenditure">支出</string>
+    <string name="type">種類</string>
+    <string name="amount">金額</string>
+    <string name="details">查看細項</string>
+    <string name="report">統計報告</string>
+    <string name="categoryChart">支出類別統計圖</string>
+    <string-array name="expenditure_set">
+        <item>食物</item>
+        <item>飲料</item>
+        <item>交通</item>
+        <item>衣服</item>
+        <item>家用</item>
+        <item>旅行</item>
+        <item>學習</item>
+        <item>社交</item>
+        <item>運動</item>
+        <item>娛樂</item>
+        <item>美容</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="income_set">
+        <item>薪水</item>
+        <item>零用錢</item>
+        <item>利息</item>
+        <item>投資</item>
+        <item>其他</item>
+    </string-array>
+</resources>
