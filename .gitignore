@@ -1,0 +1,19 @@
+# Gradle 產生的檔案
+.gradle/
+build/
+app/build/
+
+# IDE 設定
+.idea/
+*.iml
+.DS_Store
+
+# 本地設定與機密檔案
+local.properties
+*.jks
+*.keystore
+
+# 捕捉可能遺漏的暫存檔
+Captures/
+.externalNativeBuild/
+.cxx/
