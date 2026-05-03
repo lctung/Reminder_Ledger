@@ -1,4 +1,5 @@
 # 記得記帳 ReminderLedger (覚え帳)
+2023.06
 
 這是一個基於 Android 平台開發的個人財務管理應用程式，旨在幫助使用者精確記錄收支，並透過視覺化統計圖表檢討消費習慣。
 
@@ -30,12 +31,21 @@
 
 | 功能項目 | 畫面說明 | 介面預覽 |
 | :--- | :--- | :--- |
-| **啟動與主畫面** | 包含 Logo 啟動畫面及收支圓餅圖統計 | <div style="display: flex; gap: 10px;"><img src="img/welcome.png" width="150"><img src="img/home.png" width="150"></div> |
-| **新增紀錄** | 點擊右下角 `+` 加入紀錄，具備金額防呆提醒 | <div style="display: flex; gap: 10px;"><img src="img/confirm.png" width="150"><img src="img/pokayoke.png" width="150"></div> |
-| **動態類別** | 根據選擇「收入」或「支出」自動切換 Spinner 選項 | <div style="display: flex; gap: 10px;"><img src="img/income.png" width="150"><img src="img/expenditure.png" width="150"></div> |
-| **查看細項** | 列出所有歷史紀錄，支援**長按刪除** | <img src="img/delete.png" width="200"> |
-| **統計報告** | 詳細的支出類別比例圓餅圖 | <img src="img/detailed_pie_chart.png" width="200"> |
-| **多國語言** | 支援英文與日文介面切換 | <div style="display: flex; gap: 10px;"><img src="img/english.png" width="150"><img src="img/japan.png" width="150"></div> |
+| 功能項目 | 畫面說明 | 介面預覽 |
+
+| :--- | :--- | :---: |
+
+| **啟動與主畫面** | 包含 Logo 啟動畫面及收支圓餅圖統計 | <img src="img/welcome.png" width="100"><img src="img/home.png" width="100">|
+
+| **新增紀錄** | 點擊右下角 `+` 加入紀錄，具備金額防呆提醒 | <img src="img/confirm.png" width="100"> &nbsp; <img src="img/pokayoke.png" width="100"> |
+
+| **動態類別** | 根據選擇「收入」或「支出」自動切換 Spinner 選項 | <img src="img/income.png" width="100"> &nbsp; <img src="img/expenditure.png" width="100">|
+
+| **查看細項** | 列出所有歷史紀錄，支援**長按刪除** | <img src="img/delete.png" width="150"> |
+
+| **統計報告** | 詳細的支出類別比例圓餅圖 | <img src="img/detailed_pie_chart.png" width="150"> |
+
+| **多國語言** | 支援英文與日文介面切換 | <img src="img/english.png" width="100"> &nbsp; <img src="img/japan.png" width="100">|
 
 ## 📂 專案結構
 ```text
