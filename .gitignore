@@ -17,3 +17,6 @@ local.properties
 Captures/
 .externalNativeBuild/
 .cxx/
+
+# 不必要文件
+*.docx
