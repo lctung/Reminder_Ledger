@@ -30,12 +30,12 @@
 
 | 功能項目 | 畫面說明 | 介面預覽 |
 | :--- | :--- | :---: |
-| **啟動與主畫面** | 包含 Logo 啟動畫面及收支圓餅圖統計 | <img src="img/welcome.png" width="200">  <img src="img/home.png" width="200">|
-| **新增紀錄** | 點擊右下角 `+` 加入紀錄，具備金額防呆提醒 | <img src="img/confirm.png" width="200"> <img src="img/pokayoke.png" width="200"> |
-| **動態類別** | 根據選擇「收入」或「支出」自動切換 Spinner 選項 | <img src="img/income.png" width="200"> <img src="img/expenditure.png" width="200">|
+| **啟動與主畫面** | 包含 Logo 啟動畫面及收支圓餅圖統計 | <img src="img/welcome.png" width="150"> &nbsp; <img src="img/home.png" width="150">|
+| **新增紀錄** | 點擊右下角 `+` 加入紀錄，具備金額防呆提醒 | <img src="img/confirm.png" width="150"> &nbsp; <img src="img/pokayoke.png" width="150"> |
+| **動態類別** | 根據選擇「收入」或「支出」自動切換 Spinner 選項 | <img src="img/income.png" width="150"> &nbsp; <img src="img/expenditure.png" width="150">|
 | **查看細項** | 列出所有歷史紀錄，支援**長按刪除** | <img src="img/delete.png" width="200"> |
 | **統計報告** | 詳細的支出類別比例圓餅圖 | <img src="img/detailed_pie_chart.png" width="200"> |
-| **多國語言** | 支援英文與日文介面切換 | <img src="img/english.png" width="200"> <img src="img/japan.png" width="200">|
+| **多國語言** | 支援英文與日文介面切換 | <img src="img/english.png" width="150"> &nbsp; <img src="img/japan.png" width="150">|
 
 ## 📂 專案結構
 ```text
