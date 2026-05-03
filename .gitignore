@@ -19,4 +19,6 @@ Captures/
 .cxx/
 
 # 不必要文件
+*.doc
 *.docx
+~$*.doc*
